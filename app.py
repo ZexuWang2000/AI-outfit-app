@@ -18,7 +18,7 @@ city = st.text_input("请输入城市（英文，例如：Suzhou, CN）", "Suzho
 # =========================
 # 你的 OpenWeather API Key
 # =========================
-WEATHER_API_KEY = "WEATHER_API_KEY = "613fdb1143395403779c4747ff94bb2c"
+WEATHER_API_KEY = "613fdb1143395403779c4747ff94bb2c"
 
 # =========================
 # 获取天气
